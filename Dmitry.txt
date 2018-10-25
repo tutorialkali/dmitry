@@ -1,0 +1,3 @@
+#  man dmitry
+
+# dmitry -winsepfb Dmitry.txt www.distbd.org
